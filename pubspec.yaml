@@ -1,0 +1,33 @@
+name: modalapada
+description: Kannada Gender Detection and Vibhakti Generator
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  csv: ^6.0.0
+  flutter_tts: ^4.2.3
+  excel: ^4.0.3
+  path_provider: ^2.1.1
+  gsheets: 0.5.0
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/vibhakti.csv
+    - assets/words.csv

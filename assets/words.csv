@@ -1,0 +1,710 @@
+word,wordType,gender,genderConfidence,dictionaryVerified,vibhaktiClass
+ಹುಡುಗಿ,noun,feminine,100,yes,classF1
+ಮಹಿಳೆ,noun,feminine,100,yes,classF1
+ರಾಣಿ,noun,feminine,100,yes,classF2
+ತಾಯಿ,noun,feminine,100,yes,classF2
+ಅಕ್ಕ,noun,feminine,100,yes,classF1
+ತಂಗಿ,noun,feminine,100,yes,classF2
+ಮಗಳು,noun,feminine,100,yes,classF3
+ಹೆಂಡತಿ,noun,feminine,100,yes,classF2
+ಅತ್ತಿಗೆ,noun,feminine,100,yes,classF2
+ಅತ್ತೆ,noun,feminine,100,yes,classF2
+ಅಜ್ಜಿ,noun,feminine,100,yes,classF2
+ಸೊಸೆ,noun,feminine,100,yes,classF2
+ನಾದಿನಿ,noun,feminine,100,yes,classF2
+ದೇವತೆ,noun,feminine,100,yes,classF2
+ಗೊಂಬೆ,noun,feminine,98,yes,classF2
+ಮಡದಿ,noun,feminine,100,yes,classF2
+ಶಿಕ್ಷಕಿ,noun,feminine,100,yes,classF2
+ವೈದ್ಯೆ,noun,feminine,100,yes,classF2
+ಕವಯತ್ರಿ,noun,feminine,100,yes,classF2
+ನರ್ತಕಿ,noun,feminine,100,yes,classF2
+ಗಾಯಕಿ,noun,feminine,100,yes,classF2
+ಲೇಖಕಿ,noun,feminine,100,yes,classF2
+ವಿದ್ಯಾರ್ಥಿನಿ,noun,feminine,100,yes,classF2
+ಕಾರ್ಮಿಕಿ,noun,feminine,100,yes,classF2
+ಮಾಲಿಕಿ,noun,feminine,100,yes,classF2
+ಅಡಿಗೆಗಾತಿ,noun,feminine,100,yes,classF2
+ಭೂಮಿ,noun,feminine,98,yes,classF2
+ನದಿ,noun,feminine,98,yes,classF2
+ಬೆಳ್ಳಿ,noun,feminine,90,yes,classF2
+ದೋಣಿ,noun,feminine,95,yes,classF2
+ಬಳ್ಳಿ,noun,feminine,90,yes,classF2
+ಬಾಗಿಲು,noun,feminine,90,yes,classF3
+ಸೇವೆ,noun,feminine,95,yes,classF2
+ಪ್ರೀತಿ,noun,feminine,98,yes,classF2
+ಕ್ಷಮೆ,noun,feminine,95,yes,classF2
+ಶಾಂತಿ,noun,feminine,98,yes,classF2
+ವಾಣಿ,noun,feminine,98,yes,classF2
+ರೀತಿ,noun,feminine,95,yes,classF2
+ಸುಂದರಿ,noun,feminine,100,yes,classF2
+ಸಮಸ್ಯೆ,noun,feminine,95,yes,classF2
+ಪತ್ರಿಕೆ,noun,feminine,95,yes,classF2
+ಪ್ರಕಾಶಕಿ,noun,feminine,100,yes,classF2
+ವಿಮರ್ಶಕಿ,noun,feminine,100,yes,classF2
+ಶೋಧಕಿ,noun,feminine,100,yes,classF2
+ಮಂಡಳಿ,noun,feminine,95,yes,classF2
+ಸಭೆ,noun,feminine,95,yes,classF2
+ಯೋಜನೆ,noun,feminine,95,yes,classF2
+ಕಾಯಿದೆ,noun,feminine,90,yes,classF2
+ಒಡತಿ,noun,feminine,100,yes,classF2
+ಮಾದರಿ,noun,feminine,90,yes,classF2
+ವೇದಿಕೆ,noun,feminine,95,yes,classF2
+ಪರೀಕ್ಷೆ,noun,feminine,95,yes,classF2
+ದಿಕ್ಕು,noun,feminine,90,yes,classF3
+ಬೆಲೆ,noun,feminine,90,yes,classF2
+ಹಾದಿ,noun,feminine,90,yes,classF2
+ಕಥೆ,noun,feminine,95,yes,classF2
+ಭಾವನೆ,noun,feminine,95,yes,classF2
+ದಾಳಿ,noun,feminine,95,yes,classF2
+ಖುಷಿ,noun,feminine,95,yes,classF2
+ಆಕೃತಿ,noun,feminine,95,yes,classF2
+ವೇಗ,noun,feminine,90,yes,classF1
+ಬೆಳಕು,noun,feminine,90,yes,classF3
+ಪರಂಪರೆ,noun,feminine,95,yes,classF2
+ಸಂಶೋಧಕಿ,noun,feminine,100,yes,classF2
+ದಿನಚರಿ,noun,feminine,95,yes,classF2
+ಉಪಸ್ಥಿತಿ,noun,feminine,95,yes,classF2
+ಶ್ರದ್ಧೆ,noun,feminine,98,yes,classF2
+ನೃತ್ಯಗಾತಿ,noun,feminine,100,yes,classF2
+ಚರ್ಚೆ,noun,feminine,95,yes,classF2
+ಸಂಪಾದಕಿ,noun,feminine,100,yes,classF2
+ಪದ್ಧತಿ,noun,feminine,95,yes,classF2
+ಗಣಕಿ,noun,feminine,100,yes,classF2
+ಸಂಪತ್ತು,noun,feminine,90,yes,classF3
+ಪ್ರತಿಭೆ,noun,feminine,98,yes,classF2
+ಮಿತಿ,noun,feminine,95,yes,classF2
+ಗಡಿ,noun,feminine,95,yes,classF2
+ಆಸ್ತಿ,noun,feminine,95,yes,classF2
+ನಂಬಿಕೆ,noun,feminine,95,yes,classF2
+ದೃಷ್ಟಿ,noun,feminine,95,yes,classF2
+ಪ್ರಾರ್ಥನೆ,noun,feminine,95,yes,classF2
+ಬಾಧೆ,noun,feminine,95,yes,classF2
+ಘಟನೆ,noun,feminine,95,yes,classF2
+ಜವಾಬ್ದಾರಿ,noun,feminine,98,yes,classF2
+ಶುಭ್ರತೆ,noun,feminine,95,yes,classF2
+ಚಲನಶೀಲತೆ,noun,feminine,98,yes,classF2
+ಕೈಪಿಡಿ,noun,feminine,90,yes,classF2
+ಅಭಿಪ್ರಾಯ,noun,feminine,90,yes,classF1
+ಪ್ರಾಮಾಣಿಕತೆ,noun,feminine,98,yes,classF2
+ವಿಶ್ರಾಂತಿ,noun,feminine,95,yes,classF2
+ತೇರ್ಗಡೆ,noun,feminine,95,yes,classF2
+ಬೀದಿ,noun,feminine,95,yes,classF2
+ಸಂಖ್ಯೆ,noun,feminine,95,yes,classF2
+ಭದ್ರತೆ,noun,feminine,95,yes,classF2
+ಅಡೆತಡೆ,noun,feminine,95,yes,classF2
+ಸ್ವಯಂಸೇವಕಿ,noun,feminine,100,yes,classF2
+ವಾಹಿನಿ,noun,feminine,95,yes,classF2
+ದಾಖಲೆ,noun,feminine,90,yes,classF2
+ವಿದ್ಯೆ,noun,feminine,95,yes,classF2
+ಮೂರ್ತಿ,noun,feminine,95,yes,classF2
+ಪ್ರತಿಕ್ರಿಯೆ,noun,feminine,95,yes,classF2
+ಸಹಕಾರ,noun,feminine,90,yes,classF1
+ಸಂಕೀರ್ಣತೆ,noun,feminine,98,yes,classF2
+ದಿನಾಂಕ,noun,feminine,95,yes,classF2
+ವಿದ್ಯುತ್,noun,feminine,90,yes,classF3
+ಕಲಾಕೃತಿ,noun,feminine,95,yes,classF2
+ಯಾತನೆ,noun,feminine,95,yes,classF2
+ಸಾಧನೆ,noun,feminine,98,yes,classF2
+ಕಛೇರಿ,noun,feminine,95,yes,classF2
+ಸುವರ್ಣ,noun,feminine,90,yes,classF1
+ರಕ್ಷಣೆ,noun,feminine,95,yes,classF2
+ಕಲಾವಿದೆ,noun,feminine,100,yes,classF2
+ಕಾರ್ಯದರ್ಶಿ,noun,feminine,95,yes,classF2
+ಪಾಲಕಿ,noun,feminine,100,yes,classF2
+ಪೂರ್ವಿಕಿ,noun,feminine,100,yes,classF2
+ಅಧ್ಯಾಪಕಿ,noun,feminine,100,yes,classF2
+ಸಮೂಹ,noun,feminine,90,yes,classF1
+ಕೋಟೆ,noun,feminine,95,yes,classF2
+ಯಾತ್ರೆ,noun,feminine,95,yes,classF2
+ಉಡುಗೊರೆ,noun,feminine,90,yes,classF2
+ಪರಿಣಾಮ,noun,feminine,90,yes,classF1
+ವಿಶ್ವಾಸ,noun,feminine,90,yes,classF1
+ಬೀಜ,noun,feminine,85,yes,classF1
+ಪತ್ರಕರ್ತೆ,noun,feminine,100,yes,classF2
+ಶಿಕ್ಷಣೆ,noun,feminine,95,yes,classF2
+ಖಾತರಿ,noun,feminine,95,yes,classF2
+ಶರತ್ತು,noun,feminine,90,yes,classF3
+ವ್ಯಾಪ್ತಿ,noun,feminine,95,yes,classF2
+ಸಮಿತೆ,noun,feminine,95,yes,classF2
+ಪರಿಶೀಲಕಿ,noun,feminine,100,yes,classF2
+ನಿಬಂಧನೆ,noun,feminine,95,yes,classF2
+ಗಣಿತಜ್ಞೆ,noun,feminine,100,yes,classF2
+ದಿವ್ಯತೆ,noun,feminine,98,yes,classF2
+ಅವಶ್ಯಕತೆ,noun,feminine,98,yes,classF2
+ಅಗತ್ಯತೆ,noun,feminine,98,yes,classF2
+ಕಲ್ಲು,noun,feminine,85,yes,classF3
+ಕುಟುಂಬ,noun,feminine,85,yes,classF1
+ಪಡೆ,noun,feminine,90,yes,classF2
+ಯುವತಿ,noun,feminine,100,yes,classF2
+ಶ್ರೇಯಾ,noun,feminine,100,yes,classF1
+ಪಾವತಿ,noun,feminine,95,yes,classF2
+ಅಂಗಡಿ,noun,feminine,95,yes,classF2
+ಭೋಜನ,noun,feminine,90,yes,classF1
+ಸಂಗೀತ,noun,feminine,90,yes,classF1
+ಸ್ವಪ್ನ,noun,feminine,90,yes,classF1
+ಸಂತೆ,noun,feminine,95,yes,classF2
+ಶಾಲಾ,noun,feminine,95,yes,classF1
+ಇತಿಹಾಸ,noun,feminine,90,yes,classF1
+ಮಿಂಚು,noun,feminine,95,yes,classF3
+ಶನಿ,noun,feminine,90,yes,classF2
+ಆರೋಗ್ಯ,noun,feminine,90,yes,classF1
+ಕರ್ತವ್ಯ,noun,feminine,90,yes,classF1
+ರಾತ್ರಿ,noun,feminine,98,yes,classF2
+ಸಾಧಕಿ,noun,feminine,100,yes,classF2
+ವೇಷ,noun,feminine,90,yes,classF1
+ಸೌಂದರ್ಯ,noun,feminine,95,yes,classF1
+ಸಂಚಿಕೆ,noun,feminine,95,yes,classF2
+ಮಾರ್ಗ,noun,feminine,90,yes,classF1
+ಮಟ್ಟ,noun,feminine,90,yes,classF1
+ಕಂಪನಿ,noun,feminine,95,yes,classF2
+ಸಾರಿಗೆ,noun,feminine,95,yes,classF2
+ಖರ್ಚು,noun,feminine,85,yes,classF3
+ಸಾಲ,noun,feminine,85,yes,classF1
+ನೀತಿ,noun,feminine,98,yes,classF2
+ಶ್ರಮ,noun,feminine,90,yes,classF1
+ಕಂಪ್ಯೂಟರ್,noun,feminine,85,yes,classF1
+ಖಾತೆ,noun,feminine,95,yes,classF2
+ಮೇಳ,noun,feminine,90,yes,classF1
+ಮೂಲೆ,noun,feminine,95,yes,classF2
+ಉದಾಹರಣೆ,noun,feminine,95,yes,classF2
+ಬೆಂಬಲ,noun,feminine,90,yes,classF1
+ನಗರ,noun,feminine,90,yes,classF1
+ಪಕ್ಷ,noun,feminine,90,yes,classF1
+ದಿನ,noun,feminine,85,yes,classF1
+ಸಮರ್ಥನೆ,noun,feminine,95,yes,classF2
+ನಿದ್ರೆ,noun,feminine,95,yes,classF2
+ದಂಡನೆ,noun,feminine,95,yes,classF2
+ಲಾಭ,noun,feminine,90,yes,classF1
+ವಿಶೇಷ,noun,feminine,90,yes,classF1
+ಚಿಕಿತ್ಸೆ,noun,feminine,95,yes,classF2
+ದರ,noun,feminine,90,yes,classF1
+ಗ್ರಾಮ,noun,feminine,90,yes,classF1
+ಕ್ರೀಡೆ,noun,feminine,95,yes,classF2
+ಸ್ಪರ್ಧೆ,noun,feminine,95,yes,classF2
+ಪ್ರತಿ,noun,feminine,90,yes,classF2
+ಮತ,noun,feminine,90,yes,classF1
+ಅವಕಾಶ,noun,feminine,90,yes,classF1
+ಕಷ್ಟ,noun,feminine,85,yes,classF1
+ಶುಲ್ಕ,noun,feminine,90,yes,classF1
+ಅಂಶ,noun,feminine,90,yes,classF1
+ಹೊಣೆ,noun,feminine,95,yes,classF2
+ರೋಗ,noun,feminine,85,yes,classF1
+ನೋವು,noun,feminine,90,yes,classF3
+ನೆನಪು,noun,feminine,90,yes,classF3
+ಭಾವಚಿತ್ರ,noun,feminine,90,yes,classF1
+ಪವಾಡ,noun,feminine,90,yes,classF1
+ಅದೃಷ್ಟ,noun,feminine,90,yes,classF1
+ದುರದೃಷ್ಟ,noun,feminine,90,yes,classF1
+ಸೋಲು,noun,feminine,90,yes,classF3
+ಗೀತೆ,noun,feminine,95,yes,classF2
+ಹಾಡು,noun,feminine,90,yes,classF3
+ಮಾಹಿತಿ,noun,feminine,98,yes,classF2
+ಗತಿ,noun,feminine,95,yes,classF2
+ಪರಿಸ್ಥಿತಿ,noun,feminine,98,yes,classF2
+ಕಲಿಕೆ,noun,feminine,95,yes,classF2
+ಸಾಲು,noun,feminine,90,yes,classF3
+ವರ್ಗ,noun,feminine,90,yes,classF1
+ಮನೆ,noun,neuter,100,yes,classN2
+ಮರ,noun,neuter,98,yes,classN1
+ಕಲ್ಲು,noun,neuter,95,yes,classN3
+ಬೆಳಕು,noun,neuter,95,yes,classN3
+ಹಣ್ಣು,noun,neuter,100,yes,classN3
+ಪುಸ್ತಕ,noun,neuter,100,yes,classN1
+ಕಾಗದ,noun,neuter,100,yes,classN1
+ನೂರು,noun,neuter,90,yes,classN3
+ಬೆಂಕಿ,noun,neuter,98,yes,classN2
+ನೀರು,noun,neuter,100,yes,classN3
+ಆಕಾಶ,noun,neuter,98,yes,classN1
+ಬಾಗಿಲು,noun,neuter,90,yes,classN3
+ಚಿತ್ರ,noun,neuter,100,yes,classN1
+ಕಾರ್,noun,neuter,90,yes,classN1
+ಬಾಕ್ಸ್,noun,neuter,85,yes,classN1
+ಊರು,noun,neuter,98,yes,classN3
+ಗ್ರಾಮ,noun,neuter,100,yes,classN1
+ರಸ್ತೆ,noun,neuter,95,yes,classN2
+ಜ್ಞಾನ,noun,neuter,100,yes,classN1
+ಸಮಯ,noun,neuter,100,yes,classN1
+ಪರೀಕ್ಷೆ,noun,neuter,95,yes,classN2
+ಕಲ್ಪನೆ,noun,neuter,98,yes,classN2
+ಆನಂದ,noun,neuter,100,yes,classN1
+ಮನಸ್ಸು,noun,neuter,95,yes,classN3
+ಹಬ್ಬ,noun,neuter,95,yes,classN1
+ಕಾಯಿಲೆ,noun,neuter,95,yes,classN2
+ಕೈ,noun,neuter,95,yes,classN2
+ಕಾಲು,noun,neuter,95,yes,classN3
+ಹಲ್ಲು,noun,neuter,95,yes,classN3
+ಮಗು,noun,neuter,100,yes,classN3
+ಕತ್ತು,noun,neuter,95,yes,classN3
+ದೇಹ,noun,neuter,98,yes,classN1
+ಹಕ್ಕಿ,noun,neuter,100,yes,classN2
+ಆನೆ,noun,neuter,100,yes,classN2
+ಕುದುರೆ,noun,neuter,100,yes,classN2
+ನಾಯಿ,noun,neuter,100,yes,classN2
+ಹಾವು,noun,neuter,100,yes,classN3
+ಸಂತೆ,noun,neuter,90,yes,classN2
+ಹಾಲು,noun,neuter,98,yes,classN3
+ದಿನ,noun,neuter,98,yes,classN1
+ರಾತ್ರಿ,noun,neuter,90,yes,classN2
+ಅಕ್ಷರ,noun,neuter,90,yes,classN1
+ಉತ್ತರ,noun,neuter,95,yes,classN1
+ದಿಕ್ಕು,noun,neuter,90,yes,classN3
+ವಿಜ್ಞಾನ,noun,neuter,100,yes,classN1
+ಶರೀರ,noun,neuter,98,yes,classN1
+ತೀರ್ಥ,noun,neuter,95,yes,classN1
+ಚಿನ್ನ,noun,neuter,98,yes,classN1
+ರೂಪ,noun,neuter,98,yes,classN1
+ನೋಟ,noun,neuter,95,yes,classN1
+ಗುರಿ,noun,neuter,95,yes,classN2
+ಪರಿಹಾರ,noun,neuter,95,yes,classN1
+ಸಂದೇಶ,noun,neuter,98,yes,classN1
+ವಿಚಾರ,noun,neuter,100,yes,classN1
+ಪ್ರಯತ್ನ,noun,neuter,100,yes,classN1
+ಸಮಸ್ಯೆ,noun,neuter,90,yes,classN2
+ಸೌಕರ್ಯ,noun,neuter,95,yes,classN1
+ದೋಷ,noun,neuter,95,yes,classN1
+ಲಕ್ಷ್ಯ,noun,neuter,98,yes,classN1
+ವರ್ಷ,noun,neuter,98,yes,classN1
+ನೆರಳು,noun,neuter,90,yes,classN3
+ಆಹಾರ,noun,neuter,98,yes,classN1
+ಪಾನೀಯ,noun,neuter,98,yes,classN1
+ರೋಗ,noun,neuter,90,yes,classN1
+ಕ್ಷಮತೆ,noun,neuter,95,yes,classN2
+ಯಂತ್ರ,noun,neuter,98,yes,classN1
+ವಸ್ತು,noun,neuter,98,yes,classN1
+ಖರೀದಿ,noun,neuter,95,yes,classN2
+ಅದೃಷ್ಟ,noun,neuter,98,yes,classN1
+ಕಷ್ಟ,noun,neuter,95,yes,classN1
+ಸುಖ,noun,neuter,98,yes,classN1
+ಸುಂದರ,noun,neuter,90,yes,classN1
+ಆಕರ್ಷಣೆ,noun,neuter,95,yes,classN2
+ಕ್ರೀಡೆ,noun,neuter,90,yes,classN2
+ಪದ,noun,neuter,95,yes,classN1
+ಮೌನ,noun,neuter,95,yes,classN1
+ಉದಾಹರಣೆ,noun,neuter,95,yes,classN2
+ಶಬ್ದ,noun,neuter,95,yes,classN1
+ಹಾಡು,noun,neuter,95,yes,classN3
+ನೃತ್ಯ,noun,neuter,98,yes,classN1
+ಯೋಜನೆ,noun,neuter,90,yes,classN2
+ಚಿಂತೆ,noun,neuter,95,yes,classN2
+ಗೌರವ,noun,neuter,95,yes,classN1
+ಭಯ,noun,neuter,90,yes,classN1
+ವಿವಾದ,noun,neuter,95,yes,classN1
+ಸಾಧನ,noun,neuter,98,yes,classN1
+ಭರವಸೆ,noun,neuter,90,yes,classN2
+ಕರ್ತವ್ಯ,noun,neuter,95,yes,classN1
+ದೂರ,noun,neuter,95,yes,classN1
+ಸೀಮೆ,noun,neuter,95,yes,classN2
+ನಡೆ,noun,neuter,95,yes,classN2
+ಶುಲ್ಕ,noun,neuter,90,yes,classN1
+ಅಂತ್ಯ,noun,neuter,95,yes,classN1
+ಮಧ್ಯ,noun,neuter,95,yes,classN1
+ಸಾಲ,noun,neuter,90,yes,classN1
+ಹಾದಿ,noun,neuter,90,yes,classN2
+ಪರಿಣಾಮ,noun,neuter,98,yes,classN1
+ಗತಿ,noun,neuter,90,yes,classN2
+ಪ್ರಮಾಣ,noun,neuter,98,yes,classN1
+ಕೋಪ,noun,neuter,90,yes,classN1
+ವಾರ್ತೆ,noun,neuter,95,yes,classN2
+ವೇಷ,noun,neuter,90,yes,classN1
+ಮಾರ್ಗ,noun,neuter,95,yes,classN1
+ಕಾರ್ಖಾನೆ,noun,neuter,95,yes,classN2
+ಕನ್ನಡಿ,noun,neuter,95,yes,classN2
+ಕೀಲಿ,noun,neuter,95,yes,classN2
+ಬೆಣ್ಣೆ,noun,neuter,95,yes,classN2
+ಹೂವು,noun,neuter,100,yes,classN3
+ಹತ್ತಿ,noun,neuter,95,yes,classN2
+ಉಪ್ಪು,noun,neuter,98,yes,classN3
+ಸಾಧನೆ,noun,neuter,98,yes,classN2
+ಮೌಲ್ಯ,noun,neuter,98,yes,classN1
+ಅನುಮಾನ,noun,neuter,95,yes,classN1
+ಪರಿಚಯ,noun,neuter,98,yes,classN1
+ತೀರ್ಮಾನ,noun,neuter,98,yes,classN1
+ಪ್ರಯಾಣ,noun,neuter,95,yes,classN1
+ಸಂವಹನ,noun,neuter,98,yes,classN1
+ಗಣಕ,noun,neuter,95,yes,classN1
+ಅಂತ್ಯ,noun,neuter,95,yes,classN1
+ಲಾಭ,noun,neuter,90,yes,classN1
+ಖರ್ಚು,noun,neuter,90,yes,classN3
+ಸಮೂಹ,noun,neuter,95,yes,classN1
+ಬೆಂಬಲ,noun,neuter,95,yes,classN1
+ಸಾಕ್ಷ್ಯ,noun,neuter,95,yes,classN1
+ಪವಾಡ,noun,neuter,90,yes,classN1
+ಕೋಣೆ,noun,neuter,98,yes,classN2
+ಗೋದಾಮು,noun,neuter,95,yes,classN3
+ಕಚೇರಿ,noun,neuter,95,yes,classN2
+ಮೈದಾನ,noun,neuter,98,yes,classN1
+ಹೋಟೆಲ್,noun,neuter,90,yes,classN1
+ರಕ್ಷಣಾ,noun,neuter,90,yes,classN1
+ವ್ಯವಸ್ಥೆ,noun,neuter,95,yes,classN2
+ಉತ್ತರ,noun,neuter,95,yes,classN1
+ದಕ್ಷಿಣ,noun,neuter,95,yes,classN1
+ಪೂರ್ವ,noun,neuter,95,yes,classN1
+ಪಶ್ಚಿಮ,noun,neuter,95,yes,classN1
+ಸಂಖ್ಯೆ,noun,neuter,90,yes,classN2
+ಗುಣ,noun,neuter,95,yes,classN1
+ವಿದ್ಯುತ್,noun,neuter,90,yes,classN3
+ಉತ್ತೇಜನ,noun,neuter,98,yes,classN1
+ಶುಚಿತ್ವ,noun,neuter,95,yes,classN1
+ಆಹಾರ,noun,neuter,98,yes,classN1
+ಚಿಕಿತ್ಸೆ,noun,neuter,90,yes,classN2
+ಫಲಿತಾಂಶ,noun,neuter,98,yes,classN1
+ಸಲಹೆ,noun,neuter,95,yes,classN2
+ಅಂಶ,noun,neuter,95,yes,classN1
+ಅನುಮತಿ,noun,neuter,95,yes,classN2
+ಪ್ರತಿಕೃತಿ,noun,neuter,95,yes,classN2
+ಮುಖ್ಯಸ್ಥ,noun,neuter,90,yes,classN1
+ಕಾರ್ಯ,noun,neuter,98,yes,classN1
+ನಿಯಮ,noun,neuter,98,yes,classN1
+ವಿಧಾನ,noun,neuter,98,yes,classN1
+ಅವಕಾಶ,noun,neuter,98,yes,classN1
+ಆಯೋಗ,noun,neuter,95,yes,classN1
+ಖಾತೆ,noun,neuter,95,yes,classN2
+ವಲಯ,noun,neuter,95,yes,classN1
+ಉಪಕರಣ,noun,neuter,98,yes,classN1
+ವೇಗ,noun,neuter,90,yes,classN1
+ವೃತ್ತ,noun,neuter,95,yes,classN1
+ಕೋನ,noun,neuter,95,yes,classN1
+ನೆನಪು,noun,neuter,95,yes,classN3
+ಮತ,noun,neuter,90,yes,classN1
+ಸಮಸ್ಯೆ,noun,neuter,90,yes,classN2
+ಸ್ಥಳ,noun,neuter,95,yes,classN1
+ಕಲೆ,noun,neuter,95,yes,classN2
+ಮೌಲ್ಯ,noun,neuter,98,yes,classN1
+ಸಾಲು,noun,neuter,90,yes,classN3
+ದಿನಪತ್ರಿಕೆ,noun,neuter,95,yes,classN2
+ಮೋಡ,noun,neuter,98,yes,classN1
+ಮಳೆಯ,noun,neuter,90,yes,classN1
+ಬಂದರು,noun,neuter,95,yes,classN3
+ಸೇವೆ,noun,neuter,90,yes,classN2
+ವರ್ಗ,noun,neuter,95,yes,classN1
+ತಂತ್ರಜ್ಞಾನ,noun,neuter,98,yes,classN1
+ಬಾಡಿಗೆ,noun,neuter,95,yes,classN2
+ಬಟ್ಟೆ,noun,neuter,95,yes,classN2
+ಉಳಿತಾಯ,noun,neuter,95,yes,classN1
+ಸ್ವತ್ತು,noun,neuter,95,yes,classN3
+ಬೆಳೆ,noun,neuter,95,yes,classN2
+ಕನ್ನಡಿಗ,noun,neuter,90,yes,classN1
+ದೇಗುಲ,noun,neuter,98,yes,classN3
+ಸಂಪರ್ಕ,noun,neuter,98,yes,classN1
+ವ್ಯವಹಾರ,noun,neuter,98,yes,classN1
+ಉದ್ಯಮ,noun,neuter,98,yes,classN1
+ಕತ್ತರಿ,noun,neuter,95,yes,classN2
+ಕೋಳಿ,noun,neuter,100,yes,classN2
+ಮೀನು,noun,neuter,100,yes,classN3
+ಹಾಲು,noun,neuter,98,yes,classN3
+ತೈಲ,noun,neuter,98,yes,classN1
+ಸಕ್ಕರೆ,noun,neuter,95,yes,classN2
+ಸೀರೆ,noun,neuter,98,yes,classN2
+ಮುಳ್ಳು,noun,neuter,95,yes,classN3
+ಪರ್ವ,noun,neuter,90,yes,classN1
+ಹೊರೆ,noun,neuter,95,yes,classN2
+ಚಾಕು,noun,neuter,95,yes,classN3
+ಪೇಪರ್,noun,neuter,90,yes,classN1
+ರಬ್ಬರ್,noun,neuter,90,yes,classN1
+ಸಾಧನ,noun,neuter,98,yes,classN1
+ಹೊಳಲು,noun,neuter,95,yes,classN3
+ದೇಗುಲ,noun,neuter,98,yes,classN3
+ವಸ್ತು,noun,neuter,98,yes,classN1
+ಪ್ರಯಾಣ,noun,neuter,98,yes,classN1
+ಸಮೂಹ,noun,neuter,95,yes,classN1
+ಅಭಿಪ್ರಾಯ,noun,neuter,95,yes,classN1
+ಖರ್ಚು,noun,neuter,90,yes,classN3
+ರಾಮ,proper noun,masculine,100,yes,classM1
+ಕೃಷ್ಣ,proper noun,masculine,100,yes,classM1
+ಶಿವ,proper noun,masculine,100,yes,classM1
+ವಿಷ್ಣು,proper noun,masculine,100,yes,classM3
+ವೆಂಕಟೇಶ,proper noun,masculine,100,yes,classM1
+ರಂಗನಾಥ,proper noun,masculine,100,yes,classM1
+ಹರಿ,proper noun,masculine,100,yes,classM2
+ಮುರಳಿ,proper noun,masculine,100,yes,classM2
+ನಾರಾಯಣ,proper noun,masculine,100,yes,classM1
+ಗೋಪಾಲ,proper noun,masculine,100,yes,classM1
+ಮಹೇಶ,proper noun,masculine,100,yes,classM1
+ಸುಬ್ರಹ್ಮಣ್ಯ,proper noun,masculine,100,yes,classM1
+ರಾಘವೇಂದ್ರ,proper noun,masculine,100,yes,classM1
+ಸೂರ್ಯ,proper noun,masculine,100,yes,classM1
+ಚಂದ್ರ,proper noun,masculine,100,yes,classM1
+ಗಣೇಶ,proper noun,masculine,100,yes,classM1
+ಪರಮೇಶ,proper noun,masculine,100,yes,classM1
+ಜಗದೀಶ,proper noun,masculine,100,yes,classM1
+ವಿನಾಯಕ,proper noun,masculine,100,yes,classM1
+ಪ್ರಕಾಶ್,proper noun,masculine,100,yes,classM3
+ರಾಜು,proper noun,masculine,100,yes,classM3
+ರಾಘವ,proper noun,masculine,100,yes,classM1
+ಜಯಂತ್,proper noun,masculine,100,yes,classM3
+ಶ್ರೀಧರ,proper noun,masculine,100,yes,classM1
+ಪ್ರಸನ್ನ,proper noun,masculine,100,yes,classM1
+ಮಂಜುನಾಥ,proper noun,masculine,100,yes,classM1
+ರಮೇಶ್,proper noun,masculine,100,yes,classM3
+ದಿನೇಶ್,proper noun,masculine,100,yes,classM3
+ಸುರೇಶ್,proper noun,masculine,100,yes,classM3
+ಲೋಕೇಶ,proper noun,masculine,100,yes,classM1
+ನಂದೀಶ,proper noun,masculine,100,yes,classM1
+ಪುನೀತ್,proper noun,masculine,100,yes,classM3
+ಅನಂತ್,proper noun,masculine,100,yes,classM3
+ಅನಿಲ್,proper noun,masculine,100,yes,classM3
+ಕಿಶೋರ್,proper noun,masculine,100,yes,classM1
+ಮಧುಸೂದನ,proper noun,masculine,100,yes,classM1
+ಕೇಶವ,proper noun,masculine,100,yes,classM1
+ದೇವದಾಸ್,proper noun,masculine,100,yes,classM1
+ನವೀನ್,proper noun,masculine,100,yes,classM3
+ಪ್ರದೀಪ್,proper noun,masculine,100,yes,classM3
+ಸಚಿನ್,proper noun,masculine,100,yes,classM3
+ಶಂಕರ್,proper noun,masculine,100,yes,classM1
+ನರಸಿಂಹ,proper noun,masculine,100,yes,classM1
+ಶ್ಯಾಮ,proper noun,masculine,100,yes,classM1
+ವಿಜಯ,proper noun,masculine,100,yes,classM1
+ನಾಗರಾಜ,proper noun,masculine,100,yes,classM1
+ಯೋಗೇಶ,proper noun,masculine,100,yes,classM1
+ಭರತ್,proper noun,masculine,100,yes,classM1
+ಸತೀಶ್,proper noun,masculine,100,yes,classM3
+ಆರವ್,proper noun,masculine,100,yes,classM3
+ವಿಹಾನ್,proper noun,masculine,100,yes,classM3
+ಅದ್ವೈತ್,proper noun,masculine,100,yes,classM3
+ರೇಯಾನ್,proper noun,masculine,100,yes,classM3
+ಲಕಶ್,proper noun,masculine,100,yes,classM3
+ಈಶಾನ್,proper noun,masculine,100,yes,classM3
+ಚಿರಾಗ್,proper noun,masculine,100,yes,classM3
+ಯುವನ್,proper noun,masculine,100,yes,classM3
+ನಿವಾನ್,proper noun,masculine,100,yes,classM3
+ಅನ್ವಿತ್,proper noun,masculine,100,yes,classM3
+ಆರ್ಯನ್,proper noun,masculine,100,yes,classM3
+ಧ್ರುವ್,proper noun,masculine,100,yes,classM3
+ರಿಷಾನ್,proper noun,masculine,100,yes,classM3
+ಶೌರ್ಯ,proper noun,masculine,100,yes,classM1
+ಅಥರ್ವ,proper noun,masculine,100,yes,classM1
+ಪ್ರಣವ್,proper noun,masculine,100,yes,classM1
+ಅಕ್ಷಯ್,proper noun,masculine,100,yes,classM1
+ಕಿಯಾನ್,proper noun,masculine,100,yes,classM3
+ಅನ್ಶುಲ್,proper noun,masculine,100,yes,classM3
+ಶ್ರೇಯಸ್,proper noun,masculine,100,yes,classM1
+ವತ್ಸಲ್,proper noun,masculine,100,yes,classM3
+ನಿಖಿಲ್,proper noun,masculine,100,yes,classM3
+ಕೌಶಿಕ್,proper noun,masculine,100,yes,classM3
+ಸಮರ್ಥ,proper noun,masculine,100,yes,classM1
+ಗೌತಮ್,proper noun,masculine,100,yes,classM3
+ಅಖಿಲ್,proper noun,masculine,100,yes,classM3
+ರಾಹುಲ್,proper noun,masculine,100,yes,classM3
+ರೋಹನ್,proper noun,masculine,100,yes,classM3
+ವಿಶ್ವಾಸ್,proper noun,masculine,100,yes,classM3
+ಸಿದ್ಧಾಂತ್,proper noun,masculine,100,yes,classM3
+ನಿಶಾಂತ್,proper noun,masculine,100,yes,classM3
+ದೀಪಕ್,proper noun,masculine,100,yes,classM3
+ತೇಜಸ್,proper noun,masculine,100,yes,classM1
+ಸಚಿತ್,proper noun,masculine,100,yes,classM3
+ಚೇತನ್,proper noun,masculine,100,yes,classM1
+ಜೀವನ್,proper noun,masculine,100,yes,classM3
+ಯಶಸ್,proper noun,masculine,100,yes,classM3
+ಆದಿತ್ಯ,proper noun,masculine,100,yes,classM1
+ಅನ್ಮೋಲ್,proper noun,masculine,100,yes,classM3
+ಅಭಿಷೇಕ್,proper noun,masculine,100,yes,classM3
+ವರುಣ್,proper noun,masculine,100,yes,classM3
+ಆಶೀಶ್,proper noun,masculine,100,yes,classM3
+ಗೌರವ್,proper noun,masculine,100,yes,classM3
+ಉಜ್ವಲ್,proper noun,masculine,100,yes,classM3
+ವಿನಯ್,proper noun,masculine,100,yes,classM3
+ಶ್ರವಣ್,proper noun,masculine,100,yes,classM1
+ನಿರಂಜನ್,proper noun,masculine,100,yes,classM1
+ಸಾರ್ಥಕ್,proper noun,masculine,100,yes,classM1
+ಅನ್ವೇಷ್,proper noun,masculine,100,yes,classM3
+ಮಯೂರ್,proper noun,masculine,100,yes,classM3
+ಲಕ್ಷ್ಮಿ,proper noun,feminine,100,yes,classF2
+ಸರಸ್ವತಿ,proper noun,feminine,100,yes,classF2
+ಪಾರ್ವತಿ,proper noun,feminine,100,yes,classF2
+ಗಾಯತ್ರಿ,proper noun,feminine,100,yes,classF2
+ಸೀತಾ,proper noun,feminine,100,yes,classF1
+ರಾಧಾ,proper noun,feminine,100,yes,classF1
+ಮೀರಾ,proper noun,feminine,100,yes,classF1
+ರುಕ್ಮಿಣಿ,proper noun,feminine,100,yes,classF2
+ಜಯಲಕ್ಷ್ಮಿ,proper noun,feminine,100,yes,classF2
+ಅಂಬಿಕಾ,proper noun,feminine,100,yes,classF1
+ದುರ್ಗಾ,proper noun,feminine,100,yes,classF1
+ಅನ್ನಪೂರ್ಣಾ,proper noun,feminine,100,yes,classF1
+ವೈಷ್ಣವಿ,proper noun,feminine,100,yes,classF2
+ಇಂದಿರಾ,proper noun,feminine,100,yes,classF1
+ಕಾವೇರಿ,proper noun,feminine,100,yes,classF2
+ರೇವತಿ,proper noun,feminine,100,yes,classF2
+ಪದ್ಮಾ,proper noun,feminine,100,yes,classF1
+ಸುಮತಿ,proper noun,feminine,100,yes,classF2
+ಶಾರದಾ,proper noun,feminine,100,yes,classF1
+ಗೌರಿ,proper noun,feminine,100,yes,classF2
+ಉಮಾ,proper noun,feminine,100,yes,classF1
+ಮಾಧವಿ,proper noun,feminine,100,yes,classF2
+ಸುಧಾ,proper noun,feminine,100,yes,classF1
+ರೇಖಾ,proper noun,feminine,100,yes,classF1
+ಮಂಜುಳಾ,proper noun,feminine,100,yes,classF1
+ಪ್ರತಿಭಾ,proper noun,feminine,100,yes,classF1
+ವಂದನಾ,proper noun,feminine,100,yes,classF1
+ಅನುಷಾ,proper noun,feminine,100,yes,classF1
+ದೀಪಾ,proper noun,feminine,100,yes,classF1
+ಶ್ವೇತಾ,proper noun,feminine,100,yes,classF1
+ಸನ್ವಿ,proper noun,feminine,100,yes,classF2
+ಆರಾಧ್ಯ,proper noun,feminine,100,yes,classF1
+ನವ್ಯ,proper noun,feminine,100,yes,classF1
+ಚಾರ್ವಿ,proper noun,feminine,100,yes,classF2
+ದಿಶಾ,proper noun,feminine,100,yes,classF1
+ಪ್ರಿಶಾ,proper noun,feminine,100,yes,classF1
+ತನ್ವಿ,proper noun,feminine,100,yes,classF2
+ಇರಾ,proper noun,feminine,100,yes,classF1
+ಆವನಿ,proper noun,feminine,100,yes,classF2
+ಸಮೈರಾ,proper noun,feminine,100,yes,classF1
+ಕೈರಾ,proper noun,feminine,100,yes,classF1
+ರಿಷಿತಾ,proper noun,feminine,100,yes,classF1
+ಕ್ರಿಶಾ,proper noun,feminine,100,yes,classF1
+ಅನ್ವಿತಾ,proper noun,feminine,100,yes,classF1
+ಅಮೂಲ್ಯ,proper noun,feminine,100,yes,classF1
+ಪ್ರಿಯಾಂಕಾ,proper noun,feminine,100,yes,classF1
+ಪೂಜಾ,proper noun,feminine,100,yes,classF1
+ತೇಜಸ್ವಿ,proper noun,feminine,100,yes,classF2
+ವಿದ್ಯಾ,proper noun,feminine,100,yes,classF1
+ಪಲ್ಲವಿ,proper noun,feminine,100,yes,classF2
+ರಶ್ಮಿ,proper noun,feminine,100,yes,classF2
+ವಿನಿಶಾ,proper noun,feminine,100,yes,classF1
+ಸಾಕ್ಷಿ,proper noun,feminine,100,yes,classF2
+ಭಾವನಾ,proper noun,feminine,100,yes,classF1
+ಲತಾ,proper noun,feminine,100,yes,classF1
+ನಿವೇದಿತಾ,proper noun,feminine,100,yes,classF1
+ಆಕಾಂಕ್ಷಾ,proper noun,feminine,100,yes,classF1
+ಮಾನಸ,proper noun,feminine,100,yes,classF1
+ಸೌಮ್ಯಾ,proper noun,feminine,100,yes,classF1
+ಶ್ಲಾಘಾ,proper noun,feminine,100,yes,classF1
+ತಾರಾ,proper noun,feminine,100,yes,classF1
+ಕೃತಿ,proper noun,feminine,100,yes,classF2
+ಸಂಧ್ಯಾ,proper noun,feminine,100,yes,classF1
+ಚೈತ್ರಾ,proper noun,feminine,100,yes,classF1
+ಪೂರ್ಣಿಮಾ,proper noun,feminine,100,yes,classF1
+ಸಂಯುಕ್ತಾ,proper noun,feminine,100,yes,classF1
+ಸಂಗೀತಾ,proper noun,feminine,100,yes,classF1
+ಮಾಲಿನಿ,proper noun,feminine,100,yes,classF2
+ದಿವ್ಯಾ,proper noun,feminine,100,yes,classF1
+ಅನನ್ಯಾ,proper noun,feminine,100,yes,classF1
+ಖುಷಿ,proper noun,feminine,100,yes,classF2
+ಅವಂತಿಕಾ,proper noun,feminine,100,yes,classF1
+ಶ್ರೀಯಾ,proper noun,feminine,100,yes,classF1
+ಇಶಾ,proper noun,feminine,100,yes,classF1
+ಕನಕ,proper noun,feminine,100,yes,classF1
+ಆರಾಧನಾ,proper noun,feminine,100,yes,classF1
+ಭಾವಿಕಾ,proper noun,feminine,100,yes,classF1
+ಶ್ರವಣೀ,proper noun,feminine,100,yes,classF2
+ವರ್ಷಿಣಿ,proper noun,feminine,100,yes,classF2
+ಸಮನ್ವಿತಾ,proper noun,feminine,100,yes,classF1
+ಸುವರ್ಣ,proper noun,feminine,100,yes,classF1
+ನಿಧಿ,proper noun,feminine,100,yes,classF2
+ಹರ್ಷಿತಾ,proper noun,feminine,100,yes,classF1
+ದರ್ಶಿ,proper noun,feminine,100,yes,classF2
+ನೀಲಿಮಾ,proper noun,feminine,100,yes,classF1
+ರಮ್ಯ,proper noun,feminine,100,yes,classF1
+ಆಶಾ,proper noun,feminine,100,yes,classF1
+ವಾಣಿ,proper noun,feminine,100,yes,classF2
+ಸೃಷ್ಟಿ,proper noun,feminine,100,yes,classF2
+ಧನ್ಯಾ,proper noun,feminine,100,yes,classF1
+ಭಾವಿ,proper noun,feminine,100,yes,classF2
+ಕೀರ್ತನಾ,proper noun,feminine,100,yes,classF1
+ಅಂಜನಾ,proper noun,feminine,100,yes,classF1
+ತ್ರಿವೇಣಿ,proper noun,feminine,100,yes,classF2
+ಕವಿತಾ,proper noun,feminine,100,yes,classF1
+ಅಪೂರ್ವ,proper noun,feminine,100,yes,classF1
+ಶ್ಲೋಕ,proper noun,feminine,100,yes,classF1
+ಯಶ್ಮಿತಾ,proper noun,feminine,100,yes,classF1
+ನಮಿತಾ,proper noun,feminine,100,yes,classF1
+ವ್ಯಕ್ತಿ,noun,common/epicene,95,yes,classN2
+ವಿದ್ಯಾರ್ಥಿ,noun,common/epicene,95,yes,classM2
+ಗುರು,noun,common/epicene,95,yes,classM3
+ಅಧಿಕಾರಿ,noun,common/epicene,95,yes,classM2
+ಕಾರ್ಮಿಕ,noun,common/epicene,90,yes,classM1
+ನೌಕರ,noun,common/epicene,90,yes,classM1
+ವಕೀಲ,noun,common/epicene,90,yes,classM1
+ಮಾಧ್ಯಮ,noun,common/epicene,85,yes,classN1
+ಸಹಯೋಗಿ,noun,common/epicene,95,yes,classM2
+ಪ್ರವಾಸಿ,noun,common/epicene,95,yes,classM2
+ಮಕ್ಕಳು,noun,common/epicene,100,yes,classN3
+ಸೋದರ,noun,common/epicene,80,yes,classM1
+ಬಂಧು,noun,common/epicene,90,yes,classM3
+ಅಧ್ಯಕ್ಷ,noun,common/epicene,90,yes,classM1
+ಸದಸ್ಯ,noun,common/epicene,90,yes,classM1
+ಅತಿಥಿ,noun,common/epicene,95,yes,classM2
+ರೋಗಿ,noun,common/epicene,95,yes,classM2
+ಪಾಲಕ,noun,common/epicene,90,yes,classM1
+ಸೇವೆಕ,noun,common/epicene,85,yes,classM1
+ಉದ್ಯೋಗಿ,noun,common/epicene,95,yes,classM2
+ವ್ಯವಸ್ಥಾಪಕ,noun,common/epicene,90,yes,classM1
+ಲೇಖಕ,noun,common/epicene,85,yes,classM1
+ಚಿತ್ರಕಾರ,noun,common/epicene,85,yes,classM1
+ಬೋಧಕ,noun,common/epicene,90,yes,classM1
+ಗಾಯಕ,noun,common/epicene,85,yes,classM1
+ನರ್ತಕ,noun,common/epicene,85,yes,classM1
+ಪ್ರಚಾರಕ,noun,common/epicene,90,yes,classM1
+ತಜ್ಞ,noun,common/epicene,95,yes,classM1
+ಸಂಶೋಧಕ,noun,common/epicene,90,yes,classM1
+ಚಾಲಕ,noun,common/epicene,90,yes,classM1
+ನಾಗರಿಕ,noun,common/epicene,95,yes,classM1
+ನೇತಾರ,noun,common/epicene,95,yes,classM1
+ಪೌರ,noun,common/epicene,90,yes,classM1
+ಸಹಕಾರಿ,noun,common/epicene,95,yes,classM2
+ಮಾನವ,noun,common/epicene,90,yes,classM1
+ಸ್ನೇಹಿತ,noun,common/epicene,90,yes,classM1
+ಸಂತೆ,noun,common/epicene,80,yes,classN2
+ಬೆಂಬಲಿಗ,noun,common/epicene,90,yes,classM1
+ಕಾರ್ಯಕರ್ತ,noun,common/epicene,90,yes,classM1
+ಮಾರ್ಗದರ್ಶಿ,noun,common/epicene,95,yes,classM2
+ಶುಶ್ರೂಷಕ,noun,common/epicene,85,yes,classM1
+ಕಲೆಗಾರ,noun,common/epicene,90,yes,classM1
+ರೋಗಗ್ರಸ್ತ,noun,common/epicene,80,yes,classM1
+ಜನ,noun,common/epicene,95,yes,classM1
+ಸಾರ್ವಜನಿಕ,noun,common/epicene,85,yes,classM1
+ಪಡೆ,noun,common/epicene,85,yes,classN2
+ಯೋಜಕ,noun,common/epicene,90,yes,classM1
+ಪತ್ರಕರ್ತ,noun,common/epicene,85,yes,classM1
+ಸಂಯೋಜಕ,noun,common/epicene,90,yes,classM1
+ಅಭಿಮಾನಿ,noun,common/epicene,95,yes,classM2
+ಮಗು,noun,neuter,100,yes,classN3
+ಕೌಟುಂಬಿಕ,noun,masculine,70,yes,classM1
+ಕಲ್ಲ,noun,neuter,85,yes,classN3
+ದಿನ,noun,neuter,90,yes,classN1
+ಪುಷ್ಪ,noun,neuter,90,yes,classN1
+ಜಲ,noun,neuter,98,yes,classN1
+ಬೆಂಕಿ,noun,neuter,98,yes,classN2
+ನೀಲಿ,noun,neuter,80,yes,classN2
+ಕೋಳಿ,noun,neuter,95,yes,classN2
+ಮೀನು,noun,neuter,95,yes,classN3
+ಮಾತು,noun,neuter,95,yes,classN3
+ವಿಷ,noun,neuter,90,yes,classN1
+ಅಮೃತ,noun,neuter,90,yes,classN1
+ಒಡವೆ,noun,neuter,95,yes,classN2
+ದಿಕ್ಕು,noun,neuter,95,yes,classN3
+ತಪ್ಪ,noun,neuter,80,yes,classN1
+ಧ್ವನಿ,noun,neuter,90,yes,classN2
+ಶಕ್ತಿ,noun,feminine,85,yes,classF2
+ರಕ್ಷಣಾ,noun,feminine,80,yes,classF1
+ಗತಿ,noun,feminine,90,yes,classF2
+ಬುದ್ಧಿ,noun,feminine,90,yes,classF2
+ನಡತೆ,noun,feminine,90,yes,classF2
+ಆಸೆ,noun,feminine,90,yes,classF2
+ಗಡಿ,noun,feminine,90,yes,classF2
+ಕತ್ತಲೆ,noun,feminine,85,yes,classF2
+ನಕ್ಷೆ,noun,feminine,90,yes,classF2
+ಪಕ್ಷ,noun,masculine,80,yes,classM1
+ವೇಗ,noun,masculine,80,yes,classM1
+ಪ್ರತಿ,noun,feminine,75,yes,classF2
+ಒಳಗೆ,noun,neuter,60,no,classN2
+ಹೊರಗೆ,noun,neuter,60,no,classN2
+ಮೇಲೆ,noun,neuter,60,no,classN2
+ಕೆಳಗೆ,noun,neuter,60,no,classN2
+ದಾರಿ,noun,feminine,90,yes,classF2
+ಭಾವ,noun,masculine,90,yes,classM1
+ಕ್ಷೇತ್ರ,noun,neuter,90,yes,classN1
+ಚಿನ್ನ,noun,neuter,98,yes,classN1
+ಬೆಳ್ಳಿ,noun,feminine,90,yes,classF2
+ಕಷ್ಟ,noun,neuter,90,yes,classN1
+ಸುಖ,noun,neuter,95,yes,classN1
+ಅನುಭವ,noun,masculine,90,yes,classM1
+ಸಾಲ,noun,feminine,80,yes,classF1
+ಬೆಳೆ,noun,feminine,90,yes,classF2
+ಅಂಶ,noun,neuter,90,yes,classN1
+ಸಮೂಹ,noun,neuter,90,yes,classN1
+ಸೇಡು,noun,feminine,85,yes,classF3
+ವಿಚಾರ,noun,masculine,85,yes,classM1
+ಪುರ,noun,neuter,90,yes,classN1
+ದೀಪ,noun,masculine,90,yes,classM1
+ಮೋಡ,noun,neuter,95,yes,classN1
