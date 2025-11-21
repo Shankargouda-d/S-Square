@@ -708,3 +708,5 @@ word,wordType,gender,genderConfidence,dictionaryVerified,vibhaktiClass
 ಪುರ,noun,neuter,90,yes,classN1
 ದೀಪ,noun,masculine,90,yes,classM1
 ಮೋಡ,noun,neuter,95,yes,classN1
+ತಂದ,noun,masculine,100,yes,classM1
+ಹುಡುಗ,noun,masculine,100,yes,classM1
